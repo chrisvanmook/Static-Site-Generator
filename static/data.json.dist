@@ -1,0 +1,16 @@
+{
+  "links": [
+    {
+      "url": "hdata.json.distttp://google.com/",
+      "filename": "index",
+      "title": "Homepage",
+      "route": "/"
+    },
+    {
+      "url": "http://google.com/images",
+      "filename": "images",
+      "title": "Images",
+      "route": "/images"
+    }
+  ]
+}
